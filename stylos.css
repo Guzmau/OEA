@@ -64,11 +64,10 @@ body{
 .contenedor3{	
 	background: #F2F2F2;
 	border: 3px solid #126F9E;
-	border-radius: 3PX;
+	border-radius: 3px;
 	height: 420px;
 	width: 280px;
-	margin-top: 65px;
-	margin-left: 9px;
+	margin: 15px 9px;
 	display: flex;
 	justify-content: center; /* Centrar horizontalmente */
 	align-items: center; /* Centrar verticalmente si es necesario */
