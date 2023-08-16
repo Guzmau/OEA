@@ -17,7 +17,7 @@ body{
 	border: 3px solid #126F9E;
 	border-radius: 3px;
 	width: 1030px;
-	height: 637px;
+	height: 600px;
 	margin-top: 5px;
 	margin-left: 5px;
 	display: flex; /* Agrega esta línea para usar flexbox */
@@ -27,7 +27,7 @@ body{
 
 
 .imgcont{
-	height: 610px; /* Igual a la altura del contenedor1 */
+	height: 580px; /* Igual a la altura del contenedor1 */
 	width: 1015px; /* Igual al ancho del contenedor1 */
 	max-width: 100%; /* Para asegurarte de que no se desborde del contenedor */
 }
@@ -35,7 +35,7 @@ body{
 .contenedor2{
 	border-radius: 3PX;
 	border: 3px solid #126F9E;
-	height: 637px;
+	height: 600px;
 	width: 305px;
 	margin-left: 5px;
 	margin-top: 5px;	
@@ -45,8 +45,8 @@ body{
 .button1 {
 	font-size: 18px;	
 	margin-left: 80px;
-	margin-top: 80px;
-	height: 45px;
+	margin-top: 60px;
+	height: 40px;
 	width: 150px;
 	border-radius: 3px;
 	border: 1px solid #070A0C;
@@ -67,8 +67,8 @@ body{
 	border-radius: 3PX;
 	height: 420px;
 	width: 280px;
-	margin-top: 76px;
-	margin-left: 10px;
+	margin-top: 65px;
+	margin-left: 9px;
 	display: flex;
 	justify-content: center; /* Centrar horizontalmente */
 	align-items: center; /* Centrar verticalmente si es necesario */
