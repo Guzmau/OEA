@@ -29,7 +29,7 @@ body{
 .imgcont{
 	height: 580px; /* Igual a la altura del contenedor1 */
 	width: 1015px; /* Igual al ancho del contenedor1 */
-	max-width: 100%; /* Para asegurarte de que no se desborde del contenedor */
+	max-width: 95%; /* Para asegurarte de que no se desborde del contenedor */
 }
 
 .contenedor2{
